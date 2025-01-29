@@ -40,8 +40,9 @@ Before starting, ensure you have the following installed on your system:
    
      ```bash
      cp .env.example .env
-  
+     ```
 7. **Run the Application**
 
    ```bash
    php spark serve
+   ```
